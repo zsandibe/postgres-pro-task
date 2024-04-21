@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS command CASCADE;
+DROP TABLE IF EXISTS command_output;
